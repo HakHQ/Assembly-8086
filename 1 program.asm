@@ -1,4 +1,4 @@
-; File changes 8 capital letter to lower letters or lower letters to capital
+; File changes  capital letter to lower letters or lower letters to capital
 
 
 
