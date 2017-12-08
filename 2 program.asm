@@ -1,3 +1,10 @@
+; Program changes 1 -> vienas (one) 2 -> du (two) and so on
+; It also scans given file and puts all the changed material into another file
+; 2 program.asm filename1.txt filename2.txt
+; filename1 - the file that contains an information
+; filename2 - the file that will contain changed information
+
+
 .MODEL small
 .STACK 100h
 skBufDydis	EQU 255		
