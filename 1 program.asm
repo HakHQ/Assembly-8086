@@ -1,3 +1,7 @@
+; File changes 8 capital letter to lower letters or lower letters to capital
+
+
+
 .model small
 .stack 100h
 .data
@@ -132,21 +136,3 @@ Pabaiga:
 mov ax, 4c00h
 int 21h
 End
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
